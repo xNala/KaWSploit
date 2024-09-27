@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\bin\Debug\KaWSploit.exe.config
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\bin\Debug\KaWSploit.exe
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\bin\Debug\KaWSploit.pdb
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.Form1.resources
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.Properties.Resources.resources
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.exe
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.pdb
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\obj\Debug\KaWSploit.csproj.CopyComplete
+C:\Users\Owner\source\repos\KaWSploit\KaWSploit\bin\Debug\FontAwesome.Sharp.dll

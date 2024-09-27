@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaWSploit", "KaWSploit\KaWSploit.csproj", "{9065F237-573F-42F2-A28E-94BE5470DDA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9065F237-573F-42F2-A28E-94BE5470DDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9065F237-573F-42F2-A28E-94BE5470DDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9065F237-573F-42F2-A28E-94BE5470DDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9065F237-573F-42F2-A28E-94BE5470DDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61CA95C6-E2DF-4C59-9372-970599F7D2F8}
+	EndGlobalSection
+EndGlobal
